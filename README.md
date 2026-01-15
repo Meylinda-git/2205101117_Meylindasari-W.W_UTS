@@ -25,23 +25,24 @@ Aplikasi menerapkan arsitektur **minimalis 3-layer** dengan **Loading Screen oto
 **Navigation**: Explicit Intent + onBackPressedDispatcher  
 **Build Tools**: Gradle Kotlin DSL + Android Studio  
 
-**Screenshot**  
-![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/landing_page.jpeg)
-![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/main_menu.jpeg)
+**Screenshot** 
+
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/landingpage.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/mainmenu.jpeg)
 ![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi1.jpeg)
 ![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi2.jpeg)
 ![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi3.jpeg)
 ![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi4.jpeg)
 ![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi5.jpeg)
-![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc1.jpeg)
-![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc2.jpeg)
-![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc3.jpeg)
-![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc4.jpeg)
-![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc5.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc1.png)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc2.png)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc3.png)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc4.png)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc5.png)
 
 ## Cara Menjalankan
 
-Clone repository ini.
-Buka di Android Studio otter.
-Sync Gradle.
-Run di Emulator/Device Fisik (Min SDK 24).
+1. Clone repository ini.
+2. Buka di Android Studio otter.
+3. Sync Gradle.
+4. Run di Emulator/Device Fisik (Min SDK 24).
