@@ -1,4 +1,4 @@
-# GenerasiKomputerID (Eduksi 5 Generasi Komputer)
+# LAPORAN UTS PEMROGRAMAN BERGERAK | SISTEM GerasiKomputer.ID | MeyloindasariW.W_2205101117
 
 Aplikasi edukasi generasi komputer berbasis **Android Native (XML + Kotlin)**. Dibuat sebagai tugas **UAS Mata Kuliah Pemrograman Bergerak**.
 
@@ -26,7 +26,22 @@ Aplikasi menerapkan arsitektur **minimalis 3-layer** dengan **Loading Screen oto
 **Build Tools**: Gradle Kotlin DSL + Android Studio  
 
 **Screenshot**  
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/landing_page.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/main_menu.jpeg)
 ![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi1.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi2.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi3.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi4.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi5.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc1.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc2.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc3.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc4.jpeg)
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/sc5.jpeg)
 
+## Cara Menjalankan
 
-**GitHub Repo**: [Meylinda-git/Meylindasari-W.W_2205101117_UASPemrogramanBergerak](https://github.com/Meylinda-git/Meylindasari-W.W_2205101117_UASPemrogramanBergerak)
+Clone repository ini.
+Buka di Android Studio otter.
+Sync Gradle.
+Run di Emulator/Device Fisik (Min SDK 24).
