@@ -26,6 +26,7 @@ Aplikasi menerapkan arsitektur **minimalis 3-layer** dengan **Loading Screen oto
 **Build Tools**: Gradle Kotlin DSL + Android Studio  
 
 **Screenshot**  
+![Loading Screen](https://raw.githubusercontent.com/Meylinda-git/2205101117_Meylindasari-W.W_UTS/main/PublishAssets/deskripsi1.jpeg)
 
 
 **GitHub Repo**: [Meylinda-git/Meylindasari-W.W_2205101117_UASPemrogramanBergerak](https://github.com/Meylinda-git/Meylindasari-W.W_2205101117_UASPemrogramanBergerak)
